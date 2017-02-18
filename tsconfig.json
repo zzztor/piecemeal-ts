@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/lib/vector.ts",
+        "src/lib/cell.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}

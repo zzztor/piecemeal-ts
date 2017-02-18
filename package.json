@@ -1,0 +1,19 @@
+{
+  "name": "piecemeal-ts",
+  "version": "0.0.1",
+  "description": "Piecemeal is a small TypeScript library of low-level utility types aimed at 2D games.",
+  "author": "@zzztor",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "*",
+    "browserify": "^13.1.1",
+    "tsify": "^2.0.3",
+    "vinyl-source-stream": "^1.1.0",
+    "jasmine": "^2.5.3",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.1",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
